@@ -6,7 +6,7 @@ What's worse, the quality can vary if you have a third party do it. But if you h
 
 ## script_to_csv.py:
 
-Convert a text version of a screenplay into either a CSV file or a transcript-formatted text file. The CSV can be useful for things like making continuity lists. The transcript can be imported into the free application Subtitle Edit (http://www.nikse.dk/subtitleedit/). Then you just have to deal with timings and corrections (e.g. if the script is out of sync with the final dialogue) and non-dialogue info.
+Convert a text version of a screenplay into either a CSV file or a transcript-formatted text file. The CSV can be useful for things like making continuity lists. The transcript can be imported into the free application Subtitle Edit (https://github.com/SubtitleEdit/subtitleedit). Then you just have to deal with timings and corrections (e.g. if the script is out of sync with the final dialogue) and non-dialogue info.
 
 
 ## caption_adjuster.py
